@@ -17,7 +17,7 @@ Em cada dashboard foi desenvolvido em áreas de trabalho no [Jira](https://letic
 ### [Despesas](https://app.powerbi.com/view?r=eyJrIjoiMThmZWE4NWQtOGRkYy00NTRkLThiY2EtOWFkYWJmMWE2YmQ0IiwidCI6IjQ1NDhkNGRjLTBmM2YtNGJkYy1iZDVkLTA3NzUwZTBhMTRhZCJ9&pageName=ReportSection): 
 Criação de um dashboard estratégico orçamentário para monitorar os custos da empresa.
 
-![Página Inicial]([https://github.com/vinicius-pf/Challenge_BI/blob/main/Semana%202/Screenshots/P%C3%A1gina%20Inicial.PNG?raw=true](https://github.com/victrovsky/Power-BI/blob/e4b5b981299ecb6843b752a66ff45a6065ee031a/despesa.jpg))
+![Página Inicial](https://github.com/victrovsky/Power-BI/blob/9710ee20bcca4c54515c1ebcfcd9fafd45994ab3/despesa.jpg)
 
 ### [Painel de Custeio](https://app.powerbi.com/view?r=eyJrIjoiNzczMmJiZDQtYzg4MC00YjFiLWJmNGItYWY4OGNlNDBjNDFkIiwidCI6IjQ1NDhkNGRjLTBmM2YtNGJkYy1iZDVkLTA3NzUwZTBhMTRhZCJ9&pageName=ReportSectiond35372800580dad00203): Elaboração de um dashboard tático financeiro com análise de cenários e desenvolvimento de um currículo com o Power BI.
 
