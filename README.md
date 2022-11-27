@@ -18,20 +18,21 @@ Em cada dashboard foi desenvolvido em áreas de trabalho no [Jira](https://letic
 ## 🔮Projetos desenvolvidos  
 
 
-### [Transporte](https://app.powerbi.com/view?r=eyJrIjoiYjYyMWQ4NGEtY2NiNi00ZTljLTlkZDQtMGY1NWZhZWRjOTIwIiwidCI6IjQ1NDhkNGRjLTBmM2YtNGJkYy1iZDVkLTA3NzUwZTBhMTRhZCJ9&pageName=ReportSection030dd542657455ca690b): Desenvolvimento de um dashboard operacional de transporte atendendo as necessidades da empresa.
+### 1.[Transporte](https://app.powerbi.com/view?r=eyJrIjoiYjYyMWQ4NGEtY2NiNi00ZTljLTlkZDQtMGY1NWZhZWRjOTIwIiwidCI6IjQ1NDhkNGRjLTBmM2YtNGJkYy1iZDVkLTA3NzUwZTBhMTRhZCJ9&pageName=ReportSection030dd542657455ca690b): Desenvolvimento de um dashboard operacional de transporte atendendo as necessidades da empresa.
 
 ![Página Inicial](https://github.com/victrovsky/Power-BI/blob/ed516aa103b82ab15f62e6502432aa48be25d835/Captura%20da%20Web_27-11-2022_31640_app.powerbi.com.jpeg)
 
-### [Despesas](https://app.powerbi.com/view?r=eyJrIjoiMThmZWE4NWQtOGRkYy00NTRkLThiY2EtOWFkYWJmMWE2YmQ0IiwidCI6IjQ1NDhkNGRjLTBmM2YtNGJkYy1iZDVkLTA3NzUwZTBhMTRhZCJ9&pageName=ReportSection): Criação de um dashboard estratégico orçamentário para monitorar os custos da empresa.
+### 2.[Despesas](https://app.powerbi.com/view?r=eyJrIjoiMThmZWE4NWQtOGRkYy00NTRkLThiY2EtOWFkYWJmMWE2YmQ0IiwidCI6IjQ1NDhkNGRjLTBmM2YtNGJkYy1iZDVkLTA3NzUwZTBhMTRhZCJ9&pageName=ReportSection): Criação de um dashboard estratégico orçamentário para monitorar os custos da empresa.
 
 ![Página Inicial](https://github.com/victrovsky/Power-BI/blob/9710ee20bcca4c54515c1ebcfcd9fafd45994ab3/despesa.jpg)
 
-### [Painel de Custeio](https://app.powerbi.com/view?r=eyJrIjoiNzczMmJiZDQtYzg4MC00YjFiLWJmNGItYWY4OGNlNDBjNDFkIiwidCI6IjQ1NDhkNGRjLTBmM2YtNGJkYy1iZDVkLTA3NzUwZTBhMTRhZCJ9&pageName=ReportSectiond35372800580dad00203): Elaboração de um dashboard tático financeiro com análise de cenários e desenvolvimento de um currículo com o Power BI.
+### 3.[Painel de Custeio](https://app.powerbi.com/view?r=eyJrIjoiNzczMmJiZDQtYzg4MC00YjFiLWJmNGItYWY4OGNlNDBjNDFkIiwidCI6IjQ1NDhkNGRjLTBmM2YtNGJkYy1iZDVkLTA3NzUwZTBhMTRhZCJ9&pageName=ReportSectiond35372800580dad00203): Elaboração de um dashboard tático financeiro com análise de cenários e desenvolvimento de um currículo com o Power BI.
 
-<<<<<<< Updated upstream
+![Página Inicial](https://github.com/victrovsky/Power-BI/blob/eb28e06fb13dce4df8b8895bbf1bb8d713008502/custeio.jpg)
 
 
 ### [Escala e Ramais](https://app.powerbi.com/view?r=eyJrIjoiNmE5NTM1YjItODU0My00MzNmLThhNWUtMDQ3OTQ0MzU2MjI5IiwidCI6IjQ1NDhkNGRjLTBmM2YtNGJkYy1iZDVkLTA3NzUwZTBhMTRhZCJ9&pageName=ReportSection235be742a827c1619e6e): Elaboração de um dashboard informativo do setor com dados de ramais, setores e escala distribuída do setor.
+
 
 ![Página Inicial](https://github.com/victrovsky/Power-BI/blob/f68afde44c4fce65a3d4a2cb39b4d93887453bb0/custeio.jpg)![agendaCADM](https://user-images.githubusercontent.com/119130562/204148392-f61fc288-19a5-4028-9a33-4606caab2bc5.jpg)
 =======
