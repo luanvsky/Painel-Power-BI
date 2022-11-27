@@ -12,7 +12,7 @@ Em cada dashboard foi desenvolvido em áreas de trabalho no [Jira](https://letic
 
 ### [Transporte](https://app.powerbi.com/view?r=eyJrIjoiYjYyMWQ4NGEtY2NiNi00ZTljLTlkZDQtMGY1NWZhZWRjOTIwIiwidCI6IjQ1NDhkNGRjLTBmM2YtNGJkYy1iZDVkLTA3NzUwZTBhMTRhZCJ9&pageName=ReportSection030dd542657455ca690b): Desenvolvimento de um dashboard operacional de transporte atendendo as necessidades da empresa.
 
-![Página Inicial](https://github.com/vinicius-pf/Challenge_BI/blob/main/Semana%201/Screenshots/P%C3%A1gina%201.PNG?raw=true)
+![Página Inicial](https://github.com/victrovsky/Power-BI/blob/ed516aa103b82ab15f62e6502432aa48be25d835/Captura%20da%20Web_27-11-2022_31640_app.powerbi.com.jpeg)
 
 ### [Despesas](https://bit.ly/Semana2_Alura): Criação de um dashboard estratégico orçamentário para monitorar os custos da empresa.
 
