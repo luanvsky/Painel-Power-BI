@@ -14,10 +14,10 @@ Em cada dashboard foi desenvolvido em áreas de trabalho no [Jira](https://letic
 
 ![Página Inicial](https://github.com/victrovsky/Power-BI/blob/ed516aa103b82ab15f62e6502432aa48be25d835/Captura%20da%20Web_27-11-2022_31640_app.powerbi.com.jpeg)
 
-### [Despesas](https://bit.ly/Semana2_Alura): Criação de um dashboard estratégico orçamentário para monitorar os custos da empresa.
+### [Despesas]([https://bit.ly/Semana2_Alura](https://app.powerbi.com/view?r=eyJrIjoiMThmZWE4NWQtOGRkYy00NTRkLThiY2EtOWFkYWJmMWE2YmQ0IiwidCI6IjQ1NDhkNGRjLTBmM2YtNGJkYy1iZDVkLTA3NzUwZTBhMTRhZCJ9&pageName=ReportSection)): Criação de um dashboard estratégico orçamentário para monitorar os custos da empresa.
 
-![Página Inicial](https://github.com/vinicius-pf/Challenge_BI/blob/main/Semana%202/Screenshots/P%C3%A1gina%20Inicial.PNG?raw=true)
+![Página Inicial]([https://github.com/vinicius-pf/Challenge_BI/blob/main/Semana%202/Screenshots/P%C3%A1gina%20Inicial.PNG?raw=true](https://github.com/victrovsky/Power-BI/blob/e4b5b981299ecb6843b752a66ff45a6065ee031a/despesa.jpg))
 
-### [Painel de Custeio](https://bit.ly/Semana3_Alura): Elaboração de um dashboard tático financeiro com análise de cenários e desenvolvimento de um currículo com o Power BI.
+### [Painel de Custeio](https://app.powerbi.com/view?r=eyJrIjoiNzczMmJiZDQtYzg4MC00YjFiLWJmNGItYWY4OGNlNDBjNDFkIiwidCI6IjQ1NDhkNGRjLTBmM2YtNGJkYy1iZDVkLTA3NzUwZTBhMTRhZCJ9&pageName=ReportSectiond35372800580dad00203): Elaboração de um dashboard tático financeiro com análise de cenários e desenvolvimento de um currículo com o Power BI.
 
 ![Página Inicial](https://github.com/vinicius-pf/Challenge_BI/blob/main/Semana%203%20e%204/Screenshots/P%C3%A1gina%20Inicial.PNG?raw=true)
