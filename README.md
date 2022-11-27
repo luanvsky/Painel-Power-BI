@@ -20,4 +20,4 @@ Em cada dashboard foi desenvolvido em áreas de trabalho no [Jira](https://letic
 
 ### [Painel de Custeio](https://app.powerbi.com/view?r=eyJrIjoiNzczMmJiZDQtYzg4MC00YjFiLWJmNGItYWY4OGNlNDBjNDFkIiwidCI6IjQ1NDhkNGRjLTBmM2YtNGJkYy1iZDVkLTA3NzUwZTBhMTRhZCJ9&pageName=ReportSectiond35372800580dad00203): Elaboração de um dashboard tático financeiro com análise de cenários e desenvolvimento de um currículo com o Power BI.
 
-![Página Inicial](https://github.com/vinicius-pf/Challenge_BI/blob/main/Semana%203%20e%204/Screenshots/P%C3%A1gina%20Inicial.PNG?raw=true)
+![Página Inicial](https://github.com/victrovsky/Power-BI/blob/f68afde44c4fce65a3d4a2cb39b4d93887453bb0/custeio.jpg)
