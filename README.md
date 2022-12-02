@@ -33,5 +33,5 @@ Em cada dashboard foi desenvolvido em áreas de trabalho no [Jira](https://letic
 
 ### 4.[Escala e Ramais](https://app.powerbi.com/view?r=eyJrIjoiNmE5NTM1YjItODU0My00MzNmLThhNWUtMDQ3OTQ0MzU2MjI5IiwidCI6IjQ1NDhkNGRjLTBmM2YtNGJkYy1iZDVkLTA3NzUwZTBhMTRhZCJ9&pageName=ReportSection235be742a827c1619e6e): Elaboração de um dashboard informativo do setor com dados de ramais, setores e escala distribuída do setor.
 
-![Página Inicial](https://github.com/victrovsky/Power-BI/blob/f68afde44c4fce65a3d4a2cb39b4d93887453bb0/custeio.jpg)![agendaCADM](https://user-images.githubusercontent.com/119130562/204148392-f61fc288-19a5-4028-9a33-4606caab2bc5.jpg)
+![agendaCADM](https://user-images.githubusercontent.com/119130562/204148392-f61fc288-19a5-4028-9a33-4606caab2bc5.jpg)
 
