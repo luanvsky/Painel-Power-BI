@@ -34,7 +34,7 @@ Desenvolvimento de um dashboard operacional de transporte atendendo as necessida
 ### 2. [Despesas](https://app.powerbi.com/view?r=eyJrIjoiMThmZWE4NWQtOGRkYy00NTRkLThiY2EtOWFkYWJmMWE2YmQ0IiwidCI6IjQ1NDhkNGRjLTBmM2YtNGJkYy1iZDVkLTA3NzUwZTBhMTRhZCJ9&pageName=ReportSection)
 
 Criação de um dashboard estratégico orçamentário para monitorar os custos da empresa.
-
+[2° link deste Dashboad](https://app.powerbi.com/view?r=eyJrIjoiY2FmYjhmMTUtYmE4ZS00OWRkLWJjZjAtZTVhY2Y4N2ZiNWM1IiwidCI6IjQ1NDhkNGRjLTBmM2YtNGJkYy1iZDVkLTA3NzUwZTBhMTRhZCJ9&embedImagePlaceholder=true)
 ![Página Inicial](https://github.com/victrovsky/Power-BI/blob/9710ee20bcca4c54515c1ebcfcd9fafd45994ab3/despesa.jpg)
 
 
@@ -110,7 +110,17 @@ Uma agenda com escala de trabalhadores do setor e informações de setores e con
 
 
 
-### 10. [Monitoramento de Processos](https://app.powerbi.com/view?r=eyJrIjoiNTYzOGM5YTgtZTZjMC00ZmI0LWE4YWItOGZhYzg0MzE5MjUyIiwidCI6IjQ1NDhkNGRjLTBmM2YtNGJkYy1iZDVkLTA3NzUwZTBhMTRhZCJ9)
+
+### 11. [Copa do mundo](https://app.powerbi.com/view?r=eyJrIjoiYzIyN2ZiMDQtYmE1YS00NzUyLWE2NmUtODEwMzcyZWEwMDVjIiwidCI6IjQ1NDhkNGRjLTBmM2YtNGJkYy1iZDVkLTA3NzUwZTBhMTRhZCJ9&embedImagePlaceholder=true)
+
+Exercício realizado na Udemy com Fepipe Mafra. Dashboard simples para tratar de um quantitativo simples com ranking a depender de sua criatividade.
+
+![image](https://github.com/luanvsky/Painel-Power-BI/assets/119130562/ffa3c935-1204-4e4c-b66e-492510ffbf8b)
+
+
+
+
+### 12. [Monitoramento de Processos](https://app.powerbi.com/view?r=eyJrIjoiNTYzOGM5YTgtZTZjMC00ZmI0LWE4YWItOGZhYzg0MzE5MjUyIiwidCI6IjQ1NDhkNGRjLTBmM2YtNGJkYy1iZDVkLTA3NzUwZTBhMTRhZCJ9)
 
 Monitoramento de processos com dados de depesasas para acompanhar o saldo para fazer distribuição conforme recebimento de recursos.
 
@@ -130,17 +140,6 @@ Monitoramento de processos com dados de depesasas para acompanhar o saldo para f
 
 
 
-
-
-
-
-
-
-### 11. [Monitoramento de Processos](https://app.powerbi.com/view?r=eyJrIjoiNTYzOGM5YTgtZTZjMC00ZmI0LWE4YWItOGZhYzg0MzE5MjUyIiwidCI6IjQ1NDhkNGRjLTBmM2YtNGJkYy1iZDVkLTA3NzUwZTBhMTRhZCJ9)
-
-Monitoramento de processos com dados de depesasas para acompanhar o saldo para fazer distribuição conforme recebimento de recursos.
-
-![image](https://github.com/luanvsky/Painel-Power-BI/assets/119130562/fb992964-7adc-4b33-b5c1-36c982da3109)
 
 ### 12. [Monitoramento de Processos](https://app.powerbi.com/view?r=eyJrIjoiNTYzOGM5YTgtZTZjMC00ZmI0LWE4YWItOGZhYzg0MzE5MjUyIiwidCI6IjQ1NDhkNGRjLTBmM2YtNGJkYy1iZDVkLTA3NzUwZTBhMTRhZCJ9)
 
