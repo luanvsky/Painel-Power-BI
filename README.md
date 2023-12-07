@@ -121,18 +121,23 @@ Exercício realizado na Udemy com Fepipe Mafra. Dashboard simples para tratar de
 
 
 
-### 12. [Monitoramento de Processos](https://app.powerbi.com/view?r=eyJrIjoiNTYzOGM5YTgtZTZjMC00ZmI0LWE4YWItOGZhYzg0MzE5MjUyIiwidCI6IjQ1NDhkNGRjLTBmM2YtNGJkYy1iZDVkLTA3NzUwZTBhMTRhZCJ9)
 
-Monitoramento de processos com dados de depesasas para acompanhar o saldo para fazer distribuição conforme recebimento de recursos.
-
-![image](https://github.com/luanvsky/Painel-Power-BI/assets/119130562/fb992964-7adc-4b33-b5c1-36c982da3109)
-
-
-
-
-
+### 12. [Emenda Parlamentar.v2](https://app.powerbi.com/view?r=eyJrIjoiZmYyNjhmYmUtNGI2ZS00OWU4LWI4ZWQtODkwZjhiNDU0MDVlIiwidCI6IjQ1NDhkNGRjLTBmM2YtNGJkYy1iZDVkLTA3NzUwZTBhMTRhZCJ9)
 [Emenda Parlamentar.v1](https://app.powerbi.com/view?r=eyJrIjoiYThhNzhmMjAtNzBmYS00OTdmLTgyZjEtZmEwMmE0YzgxYmM1IiwidCI6IjQ1NDhkNGRjLTBmM2YtNGJkYy1iZDVkLTA3NzUwZTBhMTRhZCJ9)
 
+Dados de envio de recursos
+
+![image](https://github.com/luanvsky/Painel-Power-BI/assets/119130562/74c49edb-9873-484c-873f-a351da109ab7)
+
+
+
+
+
+### 13. [Envio de recurso da SETEC](https://app.powerbi.com/view?r=eyJrIjoiYzRmOTk1ZTctODhkOS00YmRjLWI4NjYtN2IzZjQ1NmM5NzY2IiwidCI6IjQ1NDhkNGRjLTBmM2YtNGJkYy1iZDVkLTA3NzUwZTBhMTRhZCJ9)
+
+Monitoramento de recurso de dados dovulgados pela SETEC, boa parte desta informação é enviada com uma simples planilha em excel, basta apenas fazer os tratamentos quando jogado no Power BI e fazer se necessário alguns gráficos que direcione ao pedido solicitado pelo cliente.
+
+![image](https://github.com/luanvsky/Painel-Power-BI/assets/119130562/7603ca7e-e9c1-487a-a837-4ede025e14f8)
 
 
 
@@ -142,29 +147,9 @@ Monitoramento de processos com dados de depesasas para acompanhar o saldo para f
 
 
 
-### 12. [Monitoramento de Processos](https://app.powerbi.com/view?r=eyJrIjoiNTYzOGM5YTgtZTZjMC00ZmI0LWE4YWItOGZhYzg0MzE5MjUyIiwidCI6IjQ1NDhkNGRjLTBmM2YtNGJkYy1iZDVkLTA3NzUwZTBhMTRhZCJ9)
+![WebDevelopmentWebGIF](https://github.com/luanvsky/Painel-Power-BI/assets/119130562/7599c965-3971-4be2-be59-92859db27d1c) 
 
-Monitoramento de processos com dados de depesasas para acompanhar o saldo para fazer distribuição conforme recebimento de recursos.
 
-![image](https://github.com/luanvsky/Painel-Power-BI/assets/119130562/fb992964-7adc-4b33-b5c1-36c982da3109)
-
-### 13. [Monitoramento de Processos](https://app.powerbi.com/view?r=eyJrIjoiNTYzOGM5YTgtZTZjMC00ZmI0LWE4YWItOGZhYzg0MzE5MjUyIiwidCI6IjQ1NDhkNGRjLTBmM2YtNGJkYy1iZDVkLTA3NzUwZTBhMTRhZCJ9)
-
-Monitoramento de processos com dados de depesasas para acompanhar o saldo para fazer distribuição conforme recebimento de recursos.
-
-![image](https://github.com/luanvsky/Painel-Power-BI/assets/119130562/fb992964-7adc-4b33-b5c1-36c982da3109)
-
-### 14. [Monitoramento de Processos](https://app.powerbi.com/view?r=eyJrIjoiNTYzOGM5YTgtZTZjMC00ZmI0LWE4YWItOGZhYzg0MzE5MjUyIiwidCI6IjQ1NDhkNGRjLTBmM2YtNGJkYy1iZDVkLTA3NzUwZTBhMTRhZCJ9)
-
-Monitoramento de processos com dados de depesasas para acompanhar o saldo para fazer distribuição conforme recebimento de recursos.
-
-![image](https://github.com/luanvsky/Painel-Power-BI/assets/119130562/fb992964-7adc-4b33-b5c1-36c982da3109)
-
-### 15. [Monitoramento de Processos](https://app.powerbi.com/view?r=eyJrIjoiNTYzOGM5YTgtZTZjMC00ZmI0LWE4YWItOGZhYzg0MzE5MjUyIiwidCI6IjQ1NDhkNGRjLTBmM2YtNGJkYy1iZDVkLTA3NzUwZTBhMTRhZCJ9)
-
-Monitoramento de processos com dados de depesasas para acompanhar o saldo para fazer distribuição conforme recebimento de recursos.
-
-![image](https://github.com/luanvsky/Painel-Power-BI/assets/119130562/fb992964-7adc-4b33-b5c1-36c982da3109)
 
 
 
