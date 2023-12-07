@@ -144,6 +144,16 @@ Monitoramento de recurso de dados dovulgados pela SETEC, boa parte desta informa
 
 
 
+### 14. [Relatório de atividades.v5](https://app.powerbi.com/view?r=eyJrIjoiNDdhYzIxY2YtMjBiNS00NmMwLWIxNDUtNmRmY2RjN2NmY2YwIiwidCI6IjJhMzZhZGVhLTQ5MTAtNDM3NS1hYjQzLWFiNDgxOTc0YjRlOCJ9)
+
+Trata-se de um dashboard que aborda o quantitativo do setor e um singela previsibilidade sobre o número de documentos que o setor irá analisar.
+
+![image](https://github.com/luanvsky/Painel-Power-BI/assets/119130562/b796c122-33c9-42d2-be62-f8ff314f3643)
+
+[Dados da Conformidade.v6]9https://app.powerbi.com/view?r=eyJrIjoiNjIxYTk2ZjctYTg4MC00MzYzLWE3ZGEtM2Y2MzkzZDc1ZDNlIiwidCI6IjJhMzZhZGVhLTQ5MTAtNDM3NS1hYjQzLWFiNDgxOTc0YjRlOCJ9)
+
+![image](https://github.com/luanvsky/Painel-Power-BI/assets/119130562/130bb664-dea6-491a-aebb-d07e65f97be5)
+
 
 
 
