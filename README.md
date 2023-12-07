@@ -1,4 +1,4 @@
-# 📽 Projeto Letu
+# 📽 Projeto Letuan
 
 Neste Repositório estão os meus projetos desenvolvidos que iniciaram em Julho de 2022 com auxílio de cursos on-line e livros voltados para Businesses Inteligence🧠. Este projeto tem o intuito de estudar e implementar Data Science nos diversos setores da empresa. 
 
@@ -24,7 +24,7 @@ Em cada dashboard foi desenvolvido em áreas de trabalho no [Jira](https://letic
 
 ``Clique no TÍTULO do projeto na cor azul para acessar ao dasboard``
 
-### 1. [Transporte](https://app.powerbi.com/view?r=eyJrIjoiYjYyMWQ4NGEtY2NiNi00ZTljLTlkZDQtMGY1NWZhZWRjOTIwIiwidCI6IjQ1NDhkNGRjLTBmM2YtNGJkYy1iZDVkLTA3NzUwZTBhMTRhZCJ9&pageName=ReportSection030dd542657455ca690b) 
+### 1. [Transporte](https://app.powerbi.com/view?r=eyJrIjoiYjYyMWQ4NGEtY2NiNi00ZTljLTlkZDQtMGY1NWZhZWRjOTIwIiwidCI6IjQ1NDhkNGRjLTBmM2YtNGJkYy1iZDVkLTA3NzUwZTBhMTRhZCJ9&pageName=ReportSection030dd542657455ca690b)
 
 Desenvolvimento de um dashboard operacional de transporte atendendo as necessidades da empresa.
 
