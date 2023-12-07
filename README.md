@@ -159,7 +159,7 @@ Trata-se de um dashboard que aborda o quantitativo do setor e um singela previsi
 
 
 
-
+-----------
 ![WebDevelopmentWebGIF](https://github.com/luanvsky/Painel-Power-BI/assets/119130562/7599c965-3971-4be2-be59-92859db27d1c) 
 
 
