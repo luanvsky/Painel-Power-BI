@@ -51,6 +51,94 @@ Apresentação de proposta e perfil para divulgação de portfólio de forma int
 ![image](https://github.com/luanvsky/Painel-Power-BI/assets/119130562/cda0d69d-beab-4bcb-a13c-b4cb96ffa1d9)
 
 
+### 6. [Monitoramento de Processos](https://app.powerbi.com/view?r=eyJrIjoiNTYzOGM5YTgtZTZjMC00ZmI0LWE4YWItOGZhYzg0MzE5MjUyIiwidCI6IjQ1NDhkNGRjLTBmM2YtNGJkYy1iZDVkLTA3NzUwZTBhMTRhZCJ9)
+
+Monitoramento de processos com dados de depesasas para acompanhar o saldo para fazer distribuição conforme recebimento de recursos.
+
+![image](https://github.com/luanvsky/Painel-Power-BI/assets/119130562/fb992964-7adc-4b33-b5c1-36c982da3109)
+
+
+### 7. [Planejado x Empenhado](https://app.powerbi.com/view?r=eyJrIjoiNDg4N2VhYzUtNmE5MC00YjViLWFkMGMtODQyOWI1M2U2NjMxIiwidCI6IjQ1NDhkNGRjLTBmM2YtNGJkYy1iZDVkLTA3NzUwZTBhMTRhZCJ9)
+
+Acompanhamento de dados financeiros do quanto foi planejado e distribuido de recurso para as filiais e quanto do foi utilizado (empenhando). Foi estabelecido uma fração a ser distribuido entre os tipos do recurso (assistência, funcionamento e investimento).
+
+![image](https://github.com/luanvsky/Painel-Power-BI/assets/119130562/7173b9c3-f52b-45e7-99b4-2a04cc79c24f)
+
+
+### 9. [Projeto 1 (Alura)](https://app.powerbi.com/view?r=eyJrIjoiNDk2MDYwMDktMjcwMC00YWNhLWFmOWQtMzQ5MTVkZWRlMTM3IiwidCI6IjQ1NDhkNGRjLTBmM2YtNGJkYy1iZDVkLTA3NzUwZTBhMTRhZCJ9)
+
+Acompanhamento de venda de licros. Exercício realizado pela Alura.
+
+![image](https://github.com/luanvsky/Painel-Power-BI/assets/119130562/e12249b6-0bb6-464c-9718-7ab59360a641)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### 9. [Monitoramento de Processos](https://app.powerbi.com/view?r=eyJrIjoiNTYzOGM5YTgtZTZjMC00ZmI0LWE4YWItOGZhYzg0MzE5MjUyIiwidCI6IjQ1NDhkNGRjLTBmM2YtNGJkYy1iZDVkLTA3NzUwZTBhMTRhZCJ9)
+
+Monitoramento de processos com dados de depesasas para acompanhar o saldo para fazer distribuição conforme recebimento de recursos.
+
+![image](https://github.com/luanvsky/Painel-Power-BI/assets/119130562/fb992964-7adc-4b33-b5c1-36c982da3109)
+
+### 10. [Monitoramento de Processos](https://app.powerbi.com/view?r=eyJrIjoiNTYzOGM5YTgtZTZjMC00ZmI0LWE4YWItOGZhYzg0MzE5MjUyIiwidCI6IjQ1NDhkNGRjLTBmM2YtNGJkYy1iZDVkLTA3NzUwZTBhMTRhZCJ9)
+
+Monitoramento de processos com dados de depesasas para acompanhar o saldo para fazer distribuição conforme recebimento de recursos.
+
+![image](https://github.com/luanvsky/Painel-Power-BI/assets/119130562/fb992964-7adc-4b33-b5c1-36c982da3109)
+
+### 11. [Monitoramento de Processos](https://app.powerbi.com/view?r=eyJrIjoiNTYzOGM5YTgtZTZjMC00ZmI0LWE4YWItOGZhYzg0MzE5MjUyIiwidCI6IjQ1NDhkNGRjLTBmM2YtNGJkYy1iZDVkLTA3NzUwZTBhMTRhZCJ9)
+
+Monitoramento de processos com dados de depesasas para acompanhar o saldo para fazer distribuição conforme recebimento de recursos.
+
+![image](https://github.com/luanvsky/Painel-Power-BI/assets/119130562/fb992964-7adc-4b33-b5c1-36c982da3109)
+
+### 12. [Monitoramento de Processos](https://app.powerbi.com/view?r=eyJrIjoiNTYzOGM5YTgtZTZjMC00ZmI0LWE4YWItOGZhYzg0MzE5MjUyIiwidCI6IjQ1NDhkNGRjLTBmM2YtNGJkYy1iZDVkLTA3NzUwZTBhMTRhZCJ9)
+
+Monitoramento de processos com dados de depesasas para acompanhar o saldo para fazer distribuição conforme recebimento de recursos.
+
+![image](https://github.com/luanvsky/Painel-Power-BI/assets/119130562/fb992964-7adc-4b33-b5c1-36c982da3109)
+
+### 13. [Monitoramento de Processos](https://app.powerbi.com/view?r=eyJrIjoiNTYzOGM5YTgtZTZjMC00ZmI0LWE4YWItOGZhYzg0MzE5MjUyIiwidCI6IjQ1NDhkNGRjLTBmM2YtNGJkYy1iZDVkLTA3NzUwZTBhMTRhZCJ9)
+
+Monitoramento de processos com dados de depesasas para acompanhar o saldo para fazer distribuição conforme recebimento de recursos.
+
+![image](https://github.com/luanvsky/Painel-Power-BI/assets/119130562/fb992964-7adc-4b33-b5c1-36c982da3109)
+
+### 14. [Monitoramento de Processos](https://app.powerbi.com/view?r=eyJrIjoiNTYzOGM5YTgtZTZjMC00ZmI0LWE4YWItOGZhYzg0MzE5MjUyIiwidCI6IjQ1NDhkNGRjLTBmM2YtNGJkYy1iZDVkLTA3NzUwZTBhMTRhZCJ9)
+
+Monitoramento de processos com dados de depesasas para acompanhar o saldo para fazer distribuição conforme recebimento de recursos.
+
+![image](https://github.com/luanvsky/Painel-Power-BI/assets/119130562/fb992964-7adc-4b33-b5c1-36c982da3109)
+
+### 15. [Monitoramento de Processos](https://app.powerbi.com/view?r=eyJrIjoiNTYzOGM5YTgtZTZjMC00ZmI0LWE4YWItOGZhYzg0MzE5MjUyIiwidCI6IjQ1NDhkNGRjLTBmM2YtNGJkYy1iZDVkLTA3NzUwZTBhMTRhZCJ9)
+
+Monitoramento de processos com dados de depesasas para acompanhar o saldo para fazer distribuição conforme recebimento de recursos.
+
+![image](https://github.com/luanvsky/Painel-Power-BI/assets/119130562/fb992964-7adc-4b33-b5c1-36c982da3109)
+
+
+
 
 
 
