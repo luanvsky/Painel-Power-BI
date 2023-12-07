@@ -84,6 +84,7 @@ Monitoramento de processos com dados de depesasas para acompanhar o saldo para f
 ### 7. [Planejado x Empenhado](https://app.powerbi.com/view?r=eyJrIjoiNDg4N2VhYzUtNmE5MC00YjViLWFkMGMtODQyOWI1M2U2NjMxIiwidCI6IjQ1NDhkNGRjLTBmM2YtNGJkYy1iZDVkLTA3NzUwZTBhMTRhZCJ9)
 
 Acompanhamento de dados financeiros do quanto foi planejado e distribuido de recurso para as filiais e quanto do foi utilizado (empenhando). Foi estabelecido uma fração a ser distribuido entre os tipos do recurso (assistência, funcionamento e investimento).
+[2º link para outro dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjBkNzc1NzctN2RjMC00ZmJiLTk5MWEtMjc2ZjM1NDc1NWI4IiwidCI6IjQ1NDhkNGRjLTBmM2YtNGJkYy1iZDVkLTA3NzUwZTBhMTRhZCJ9)
 
 ![image](https://github.com/luanvsky/Painel-Power-BI/assets/119130562/7173b9c3-f52b-45e7-99b4-2a04cc79c24f)
 
@@ -130,7 +131,7 @@ Monitoramento de processos com dados de depesasas para acompanhar o saldo para f
 
 
 
-
+[Emenda Parlamentar.v1](https://app.powerbi.com/view?r=eyJrIjoiYThhNzhmMjAtNzBmYS00OTdmLTgyZjEtZmEwMmE0YzgxYmM1IiwidCI6IjQ1NDhkNGRjLTBmM2YtNGJkYy1iZDVkLTA3NzUwZTBhMTRhZCJ9)
 
 
 
