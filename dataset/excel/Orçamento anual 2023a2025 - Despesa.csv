@@ -1,0 +1,435 @@
+Data,Lancamento,Detalhe,Local,Valor ,TipoDeLancamento
+11/10/2023,filho,3x3,amazon,R$ 52,crédito
+13/10/2023,filho,3x3,drogasil,R$ 64,crédito
+28/10/2023,filho,2x2,drogasil,R$ 55,crédito
+30/10/2023,filho,2x2,pague menos,R$ 44,crédito
+31/10/2023,despesa pessoal,2x4,santa bárbara,R$ 198,crédito
+01/11/2023,Compra com Cartão,,119959,-R$ 10,saída 
+02/11/2023,despesa pessoal,2x2,águas de aruada,R$ 92,crédito
+03/11/2023,Pix - Enviado,,110301,-R$ 20,saída 
+03/11/2023,Pix - Enviado,,110302,-R$ 10,saída 
+03/11/2023,Pix - Enviado,,110303,-R$ 10,saída 
+03/11/2023,Pix - Enviado,,110304,-R$ 5,saída 
+03/11/2023,Pix - Enviado,,110305,-R$ 7,saída 
+03/11/2023,Pix - Enviado,,110306,-R$ 5,saída 
+06/11/2023,Transferência recebida,,603546000125662,R$ 400,entrada
+06/11/2023,Pix - Enviado,,110601,-R$ 100,saída 
+06/11/2023,Pix - Enviado,,110602,-R$ 14,saída 
+06/11/2023,Pix - Enviado,,110603,-R$ 10,saída 
+07/11/2023,Pix - Enviado,,110701,-R$ 9,saída 
+07/11/2023,Pix - Enviado,,110702,-R$ 50,saída 
+09/11/2023,saúde,2x4,pio decimo,R$ 308,crédito
+09/11/2023,saúde,2x2,pio décimo,R$ 170,crédito
+09/11/2023,saúde,2x2,drogasil,R$ 52,crédito
+09/11/2023,Compra com Cartão,,128221,-R$ 10,saída 
+09/11/2023,Pix - Enviado,,110901,-R$ 581,saída 
+09/11/2023,Pagamento Fatura de Água,,46819,-R$ 20,saída 
+10/11/2023,Compra com Cartão,,145006,-R$ 30,saída 
+10/11/2023,Compra com Cartão,,253891,-R$ 1,saída 
+11/11/2023,saúde,2x2,univet,R$ 52,crédito
+12/11/2023,saúde,2x3,petz,R$ 77,crédito
+13/11/2023,Compra com Cartão,,159738,-R$ 2,saída 
+13/11/2023,Compra com Cartão,,265431,-R$ 1,saída 
+13/11/2023,Pix - Enviado,,111301,-R$ 100,saída 
+14/11/2023,Transferência recebida,,603545400015303,R$ 4.473,entrada
+14/11/2023,Compra com Cartão,,142784,-R$ 2,saída 
+14/11/2023,Pagto cartão crédito,,450354500030000,-R$ 4.215,saída 
+14/11/2023,Pix - Enviado,,111401,-R$ 205,saída 
+16/11/2023,saúde,2x4,pat lab,R$ 266,crédito
+17/11/2023,saúde,,171222,-R$ 7,saída 
+17/11/2023,Pix - Enviado,,111701,-R$ 14,saída 
+20/11/2023,Depósito Online TAA,,833072892152003,R$ 1.020,entrada
+20/11/2023,Pix - Recebido,,4656138522,R$ 192,entrada
+20/11/2023,Pix - Enviado,,112001,-R$ 1.320,saída 
+21/11/2023,Pix - Recebido,,4666296311,R$ 1.000,entrada
+24/11/2023,Pix - Enviado,,112401,-R$ 350,saída 
+29/11/2023,Compra com Cartão,,148691,-R$ 12,saída 
+29/11/2023,Compra com Cartão,,248750,-R$ 10,saída 
+30/11/2023,Compra com Cartão,,163268,-R$ 17,saída 
+30/11/2023,Pix - Enviado,,113001,-R$ 15,saída 
+01/12/2023,despesa pessoal,bb,iof dia,"R$ 0,35",crédito
+01/12/2023,despesa pessoal,bb,iof adic,"R$ 16,02",crédito
+01/12/2023,moradia,bb,amazon,"R$ 207,69",crédito
+01/12/2023,filho,1x2,drogasil,R$ 53,crédito
+01/12/2023,Pix - Enviado,,120101,-R$ 20,saída 
+02/12/2023,alimentação ,bb,mercato sol nascente,"R$ 25,00",crédito
+02/12/2023,alimentação ,bb,pandad,"R$ 22,40",crédito
+04/12/2023,alimentação ,bb,açaí,"R$ 233,66",crédito
+04/12/2023,Pix - Enviado,,120401,-R$ 15,saída 
+05/12/2023,carro,bb,jardim europa,"R$ 100,00",crédito
+05/12/2023,Pix - Enviado,,120501,-R$ 656,saída 
+06/12/2023,Transferência recebida,,223545400015303,R$ 500,entrada
+06/12/2023,Saque no TAA,,61351279404293,-R$ 330,saída 
+07/12/2023,alimentação ,bb,iht alimentos,"R$ 67,98",crédito
+07/12/2023,filho,bb,pague menos,"R$ 36,35",crédito
+08/12/2023,filho,bb,pague menos,"R$ 33,98",crédito
+08/12/2023,filho,bb,amazon,"R$ 33,65",crédito
+08/12/2023,filho,bb,amazon,"R$ 33,65",crédito
+08/12/2023,carro,bb,eko,"R$ 137,12",crédito
+08/12/2023,filho,1x2,pague menos,R$ 43,crédito
+08/12/2023,Compra com Cartão,,142699,-R$ 13,saída 
+11/12/2023,alimentação ,bb,assaí,"R$ 180,45",crédito
+11/12/2023,moto-boy,bb,pop 99,"R$ 5,25",crédito
+11/12/2023,Transferência recebida,,603545400015303,R$ 5.524,entrada
+11/12/2023,Compra com Cartão,,139447,-R$ 11,saída 
+11/12/2023,Compra com Cartão,,233576,-R$ 46,saída 
+11/12/2023,Compra com Cartão,,362556,-R$ 17,saída 
+11/12/2023,Pix - Enviado,,121101,-R$ 190,saída 
+11/12/2023,Pix - Enviado,,121102,-R$ 380,saída 
+11/12/2023,Pagamento Fatura de Água,,46819,-R$ 64,saída 
+12/12/2023,alimentação ,bb,pague menos,"R$ 116,98",crédito
+13/12/2023,despesa pessoal,bb,inappaymentcaptusao,"R$ 5,50",crédito
+13/12/2023,despesa pessoal,bb,amazon,"R$ 25,91",crédito
+13/12/2023,Pix - Recebido,,4841456045,R$ 600,entrada
+13/12/2023,Pagto cartão crédito,,450354500020000,-R$ 5.329,saída 
+15/12/2023,carro,bb,petrox,"R$ 152,79",crédito
+15/12/2023,filho,bb,drogasil,"R$ 13,50",crédito
+15/12/2023,transporte ,bb,pop 99,"R$ 3,00",crédito
+15/12/2023,Depósito Online TAA,,833072892102232,R$ 2.258,entrada
+15/12/2023,Pagamento de Boleto,,121501,-R$ 2.600,saída 
+17/12/2023,alimentação ,bb,jonal batista,"R$ 14,50",crédito
+18/12/2023,despesa pessoal,bb,cartão,"R$ 104,92",crédito
+18/12/2023,alimentação ,bb,petrox,"R$ 11,97",crédito
+18/12/2023,alimentação ,bb,assaí,"R$ 246,78",crédito
+18/12/2023,alimentação ,bb,pizzaria da hora,"R$ 21,00",crédito
+18/12/2023,transporte ,bb,99 pay,"R$ 20,79",crédito
+19/12/2023,saúde,bb,drogasil,"R$ 74,06",crédito
+19/12/2023,Transferência recebida,,603546000125662,R$ 1.200,entrada
+20/12/2023,filho,bb,net outlet,"R$ 47,20",crédito
+20/12/2023,filho,bb,cresci e perdi,"R$ 46,00",crédito
+20/12/2023,filho,bb,inappaymentcaptusao,"R$ 6,30",crédito
+20/12/2023,filho,bb,mini luxo,"R$ 99,90",crédito
+20/12/2023,filho,1x2,gravel kids,R$ 35,crédito
+20/12/2023,Pix - Enviado,,122001,-R$ 20,saída 
+21/12/2023,Compra com Cartão,,183821,-R$ 25,saída 
+22/12/2023,alimentação ,bb,mercantil,"R$ 41,97",crédito
+22/12/2023,carro,bb,riomar,"R$ 8,00",crédito
+22/12/2023,carro,bb,eco,"R$ 100,00",crédito
+22/12/2023,despesa pessoal,bb,le biscuit,"R$ 83,69",crédito
+22/12/2023,despesa pessoal,bb,lebiscuit,"R$ 229,80",crédito
+22/12/2023,Pagamento de Boleto,,122201,-R$ 232,saída 
+24/12/2023,carro,bb,eco,"R$ 100,00",crédito
+26/12/2023,Pix - Enviado,,122601,-R$ 20,saída 
+27/12/2023,alimentação ,queijos ,,R$ 19,crédito
+27/12/2023,carro,petrox,,R$ 100,crédito
+27/12/2023,filho,farmacia,,R$ 27,crédito
+27/12/2023,alimentação ,açai,,R$ 203,crédito
+28/12/2023,Pix - Enviado,,122801,-R$ 410,saída 
+29/12/2023,filho,drograsil,,R$ 63,crédito
+31/12/2023,despesa pessoal,jobim,,R$ 158,crédito
+31/12/2023,alimentação ,emporio,,R$ 18,crédito
+31/12/2023,carro,ryo,,R$ 100,crédito
+31/12/2023,alimentação ,regina,,R$ 80,crédito
+31/12/2023,transporte ,99pay,,R$ 14,crédito
+01/01/2024,filho,amazon,,R$ 92,crédito
+01/01/2024,moradia,salário,,R$ 5.884,entrada
+02/01/2024,moradia,iof,,R$ 5,crédito
+02/01/2024,moradia,iof,,R$ 18,crédito
+02/01/2024,transporte ,uber,,R$ 13,crédito
+03/01/2024,alimentação ,açaí ,,R$ 299,crédito
+05/01/2024,alimentação ,mp*mercadinhoide,,R$ 34,crédito
+06/01/2024,carro,filial mega,,R$ 100,crédito
+07/01/2024,carro,posto dom Pedro ,,R$ 180,crédito
+07/01/2024,comunicação,conta vivo,,R$ 169,crédito
+08/01/2024,Pix - Recebido,,5029615510,R$ 65,entrada
+08/01/2024,Pix - Enviado,,10801,-R$ 156,saída 
+08/01/2024,Pix - Enviado,,10802,-R$ 280,saída 
+09/01/2024,Pagamento Fatura de Água,,46819,-R$ 20,saída 
+10/01/2024,Transferência recebida,,603545400015303,R$ 4.817,entrada
+10/01/2024,Pix - Recebido,,5067270343,R$ 925,entrada
+10/01/2024,Pagamento de Boleto,,11001,-R$ 320,saída 
+10/01/2024,Pagamento de Boleto,,11002,-R$ 150,saída 
+10/01/2024,moradia,,,R$ 5,crédito
+10/01/2024,alimentação ,açaí ,,R$ 276,crédito
+10/01/2024,transporte ,99pay,,R$ 11,crédito
+10/01/2024,moradia,recargapay,,R$ 2.600,crédito
+10/01/2024,transporte ,99pay,,R$ 4,crédito
+12/01/2024,Pagto cartão crédito,,450354500130000,-R$ 4.531,saída 
+12/01/2024,alimentação ,mercantil,,R$ 122,crédito
+15/01/2024,Pix - Recebido,,5099260843,R$ 1.411,entrada
+15/01/2024,Pix - Recebido,,5102699730,R$ 208,entrada
+15/01/2024,Pix - Enviado,,11501,-R$ 50,saída 
+16/01/2024,Pagamento de Boleto,,11601,-R$ 1.700,saída 
+16/01/2024,Pix - Enviado,,11602,-R$ 12,saída 
+18/01/2024,Pix-Envio devolvido,,5969264651,R$ 90,entrada
+18/01/2024,Pix - Enviado,,11801,-R$ 100,saída 
+22/01/2024,Pix - Recebido,,5150929197,R$ 584,entrada
+22/01/2024,Pix - Enviado,,12201,-R$ 1.218,saída 
+25/01/2024,Pix - Recebido,,5168893298,R$ 792,entrada
+29/01/2024,Pagamento de Boleto,,12901,-R$ 792,saída 
+01/02/2024,moradia,salário,,R$ 5.884,entrada
+02/02/2024,Compra com Cartão,,164513,-R$ 15,saída 
+06/02/2024,Pix - Enviado,,20601,-R$ 15,saída 
+06/02/2024,Pix - Enviado,,20602,-R$ 23,saída 
+08/02/2024,Transferência recebida,,603545400015303,R$ 4.582,entrada
+08/02/2024,Pagamento Fatura de Água,,46819,-R$ 103,saída 
+09/02/2024,Pix - Recebido,,91519429492202,R$ 69,entrada
+09/02/2024,Pagto cartão crédito,,450354500144293,-R$ 3.750,saída 
+09/02/2024,Pix - Enviado,,20901,-R$ 257,saída 
+14/02/2024,Pagamento de Boleto,,21401,-R$ 320,saída 
+15/02/2024,Depósito Online TAA,,833072892165542,R$ 2.039,entrada
+16/02/2024,Pix - Recebido,,161538406880152,R$ 100,entrada
+16/02/2024,Compra com Cartão,,165345,-R$ 16,saída 
+16/02/2024,Pagamento de Boleto,,21602,-R$ 2.264,saída 
+16/02/2024,Pix - Enviado,,21603,-R$ 20,saída 
+19/02/2024,Transferência recebida,,608081000031460,R$ 1.000,entrada
+19/02/2024,Pix - Enviado,,21901,-R$ 1.000,saída 
+28/02/2024,Pix - Recebido,,281133335324042,R$ 100,entrada
+28/02/2024,Pix - Enviado,,22801,-R$ 55,saída 
+28/02/2024,Pix - Enviado,,22802,-R$ 36,saída 
+01/03/2024,Transferência recebida,,603546000125662,R$ 934,entrada
+01/03/2024,Pagamento de Boleto,,30101,-R$ 747,saída 
+01/03/2024,moradia,salário,,R$ 5.884,entrada
+04/03/2024,Pix - Enviado,,30401,-R$ 6,saída 
+05/03/2024,Pix - Recebido,,51949393867162,R$ 135,entrada
+05/03/2024,Compra com Cartão,,156422,-R$ 4,saída 
+07/03/2024,Pagamento de Boleto,,30701,-R$ 130,saída 
+07/03/2024,Pix-Recebimento devolvido,,30702,-R$ 66,saída 
+08/03/2024,Pix - Enviado,,30801,-R$ 60,saída 
+11/03/2024,Transferência recebida,,603545400015303,R$ 4.593,entrada
+11/03/2024,Pagamento de Boleto,,31101,-R$ 344,saída 
+11/03/2024,Pagamento Fatura de Água,,46819,-R$ 83,saída 
+12/03/2024,Pix - Recebido,,122104570756152,R$ 1.000,entrada
+12/03/2024,Pix - Recebido,,122114055921232,R$ 330,entrada
+12/03/2024,Pagto cartão crédito,,450354500190000,-R$ 5.624,saída 
+15/03/2024,Depósito Online TAA,,833071477111703,R$ 1.906,entrada
+18/03/2024,Pagamento de Boleto,,31801,-R$ 1.908,saída 
+28/03/2024,Compra com Cartão,,171183,-R$ 100,saída 
+01/04/2024,Cobrança de Juros,,511058916,-R$ 1,saída 
+01/04/2024,Cobrança de I.O.F.,,391100701,R$ 0,saída 
+01/04/2024,Cobrança de Juros,,511058916,-R$ 1,saída 
+01/04/2024,Cobrança de I.O.F.,,391100701,R$ 0,saída 
+01/04/2024,moradia,salário,,R$ 5.884,entrada
+02/04/2024,Pix - Recebido,02/04 16:38 05419502585 Diocleciano Si,120867236561041,R$ 135,entrada
+02/04/2024,Pix - Recebido,02/04 16:38 05419502585 Diocleciano Si,120867236561041,R$ 135,entrada
+08/04/2024,Transferência recebida,08/04 10:28 VICTOR CESAR SANTOS MELO,603545400015303,R$ 10.130,entrada
+08/04/2024,Pagto cartão crédito,,450354500390000,-R$ 6.468,saída 
+08/04/2024,Pix - Enviado,08/04 10:55 Energisa Sergipe - Distrib,40801,-R$ 308,saída 
+08/04/2024,Pix - Enviado,08/04 11:26 Telefonica Brasil S A,40802,-R$ 150,saída 
+08/04/2024,Pix - Enviado,08/04 11:29 Geap,40803,-R$ 1.167,saída 
+08/04/2024,Pagamento Fatura de Água,DESO CIA SANEAM SERGIPE,46819,-R$ 76,saída 
+08/04/2024,Transferência recebida,08/04 10:28 VICTOR CESAR SANTOS MELO,603545400015303,R$ 10.130,entrada
+08/04/2024,Pagto cartão crédito,,450354500390000,-R$ 6.468,saída 
+08/04/2024,Pix - Enviado,08/04 10:55 Energisa Sergipe - Distrib,40801,-R$ 308,saída 
+08/04/2024,Pix - Enviado,08/04 11:26 Telefonica Brasil S A,40802,-R$ 150,saída 
+08/04/2024,Pix - Enviado,08/04 11:29 Geap,40803,-R$ 1.167,saída 
+08/04/2024,Pagamento Fatura de Água,DESO CIA SANEAM SERGIPE,46819,-R$ 76,saída 
+10/04/2024,Pix-Recebimento devolvido,10/04 09:41 DIOCLECIANO SILVA SANTOS,41001,-R$ 67,saída 
+10/04/2024,Pix - Enviado,10/04 12:40 Cleverton Santos Silva,41002,-R$ 25,saída 
+10/04/2024,Pix-Recebimento devolvido,10/04 09:41 DIOCLECIANO SILVA SANTOS,41001,-R$ 67,saída 
+10/04/2024,Pix - Enviado,10/04 12:40 Cleverton Santos Silva,41002,-R$ 25,saída 
+12/04/2024,Pix - Recebido,12/04 19:12 03203437589 Fernando Lucas,129599330641311,R$ 900,entrada
+12/04/2024,Pix - Recebido,12/04 19:12 03203437589 Fernando Lucas,129599330641311,R$ 900,entrada
+15/04/2024,Depósito Online TAA,15/04 08:22 SOP-JARDINS-ARACAJU,833070067082255,R$ 1.816,entrada
+15/04/2024,Compra com Cartão,13/04 10:24 PAG*Nancivieirasanto,137494,-R$ 6,saída 
+15/04/2024,Compra com Cartão,14/04 10:39 MP*GARRAFA,238376,-R$ 10,saída 
+15/04/2024,Pix - Enviado,15/04 11:31 Tricia Joias,41501,-R$ 20,saída 
+15/04/2024,Pix - Enviado,15/04 23:06 Claro,41502,-R$ 281,saída 
+15/04/2024,Depósito Online TAA,15/04 08:22 SOP-JARDINS-ARACAJU,833070067082255,R$ 1.816,entrada
+15/04/2024,Compra com Cartão,13/04 10:24 PAG*Nancivieirasanto,137494,-R$ 6,saída 
+15/04/2024,Compra com Cartão,14/04 10:39 MP*GARRAFA,238376,-R$ 10,saída 
+15/04/2024,Pix - Enviado,15/04 11:31 Tricia Joias,41501,-R$ 20,saída 
+15/04/2024,Pix - Enviado,15/04 23:06 Claro,41502,-R$ 281,saída 
+16/04/2024,Pagamento de Boleto,HIPERCARD BANCO MULTIPLO S.A,41601,-R$ 2.705,saída 
+16/04/2024,Pagamento de Boleto,HIPERCARD BANCO MULTIPLO S.A,41601,-R$ 2.705,saída 
+17/04/2024,Pix - Enviado,17/04 11:38 Jussara Batista,41701,-R$ 20,saída 
+17/04/2024,Pix - Enviado,17/04 11:38 Jussara Batista,41701,-R$ 20,saída 
+19/04/2024,Compra com Cartão,19/04 15:09 MIL PARK,154578,-R$ 2,saída 
+19/04/2024,Compra com Cartão,19/04 15:09 MIL PARK,154578,-R$ 2,saída 
+22/04/2024,Pagamento de Impostos,ARRECADACAO GOV SERGIPE,42201,-R$ 170,saída 
+22/04/2024,Pagamento de Impostos,ARRECADACAO GOV SERGIPE,42201,-R$ 170,saída 
+23/04/2024,Compra com Cartão,23/04 10:29 MERCANTIL RODRIGU,137751,-R$ 5,saída 
+23/04/2024,Compra com Cartão,23/04 10:29 MERCANTIL RODRIGU,137751,-R$ 5,saída 
+01/05/2024,moradia,salário,,R$ 5.884,entrada
+02/05/2024,Transferência recebida,02/05 12:32 FERNANDO LUCAS O FARIAS,603546000125662,R$ 321,entrada
+02/05/2024,Cobrança de Juros,,511058916,R$ 0,saída 
+02/05/2024,Cobrança de I.O.F.,,391100701,R$ 0,saída 
+03/05/2024,Pix - Enviado,03/05 08:21 Happy Market Comercio Ltda,50301,-R$ 7,saída 
+06/05/2024,Pagamento Fatura de Água,DESO CIA SANEAM SERGIPE,46819,-R$ 76,saída 
+07/05/2024,Pagamento de Boleto,PJBANK PAGAMENTOS S A,50701,-R$ 344,saída 
+07/05/2024,Pix - Enviado,07/05 22:04 Energisa Sergipe - Distrib,50702,-R$ 444,saída 
+13/05/2024,Transferência recebida,13/05 07:58 VICTOR CESAR SANTOS MELO,603545400015303,R$ 3.769,entrada
+13/05/2024,Pix - Recebido,13/05 22:05 05419502585 Diocleciano Si,156487092433311,R$ 135,entrada
+13/05/2024,Pagto cartão crédito,,450354500320000,-R$ 4.382,saída 
+13/05/2024,Pix - Enviado,13/05 08:59 Geap Autogestao Em Saude,51301,-R$ 236,saída 
+15/05/2024,Pix-Recebimento devolvido,15/05 09:18 DIOCLECIANO SILVA SANTOS,51501,-R$ 135,saída 
+01/06/2024,moradia,salário,,R$ 5.884,entrada
+07/06/2024,Pagamento Fatura de Água,DESO CIA SANEAM SERGIPE,46819,-R$ 117,saída 
+07/06/2024,Estorno de Débito,DESO CIA SANEAM SERGIPE,46819,R$ 117,entrada
+10/06/2024,Transferência recebida,10/06 15:01 VICTOR CESAR SANTOS MELO,603545400015303,R$ 3.246,entrada
+10/06/2024,Pagamento de Boleto,PJBANK PAGAMENTOS S A,61001,-R$ 344,saída 
+12/06/2024,Pix - Recebido,12/06 17:46 03539927557 DIANA SANTOS D,182251961307551,R$ 2.200,entrada
+12/06/2024,Pix - Recebido,12/06 17:49 03539927557 DIANA SANTOS D,182253983966241,R$ 1.100,entrada
+12/06/2024,Pagto cartão crédito,,450354500150000,-R$ 6.170,saída 
+24/06/2024,Pix - Enviado,22/06 12:07 Carlos Roberto Melo Santos,62401,-R$ 10,saída 
+25/06/2024,Pix - Enviado,25/06 07:02 Happy Market Comercio Ltda,62501,-R$ 4,saída 
+01/07/2024,moradia,salário,,R$ 5.884,entrada
+05/07/2024,Pix - Enviado,05/07 20:17 Alipay/aliexpress - Pix,70501,-R$ 7,saída 
+08/07/2024,Transferência recebida,07/07 07:55 VICTOR CESAR SANTOS MELO,603545400015303,R$ 4.654,entrada
+08/07/2024,Pix - Enviado,07/07 08:28 Mercantil Rodrigues,70801,-R$ 42,saída 
+09/07/2024,Pagamento Fatura de Água,DESO CIA SANEAM SERGIPE,46819,-R$ 97,saída 
+10/07/2024,Pagamento de Boleto,PJBANK PAGAMENTOS S A,71001,-R$ 344,saída 
+10/07/2024,Pix - Enviado,10/07 07:01 Energisa Sergipe - Distrib,71002,-R$ 266,saída 
+12/07/2024,Pix - Recebido,12/07 20:24 00003539927557 DIANA SANTO,122024032179222,R$ 1.000,entrada
+12/07/2024,Pagto cartão crédito,,450354500170000,-R$ 4.758,saída 
+12/07/2024,Pix - Enviado,12/07 15:00 Diocleciano Silva Santos,71201,-R$ 157,saída 
+15/07/2024,Pix - Recebido,13/07 07:59 00003539927557 DIANA SANTO,130759302353542,R$ 1.000,entrada
+15/07/2024,Pix - Recebido,15/07 15:02 31129897591 VALDETE DE OLI,210665701292311,R$ 2.337,entrada
+15/07/2024,Pagto cartão crédito,,450354500280000,-R$ 1.050,saída 
+15/07/2024,Pix - Enviado,13/07 15:26 Rafael Oliveira,71501,-R$ 25,saída 
+15/07/2024,Pagamento de Boleto,HIPERCARD BANCO MULTIPLO S.A,71502,-R$ 2.067,saída 
+31/07/2024,Restituição de IRPF,,102120900070299,R$ 2.797,entrada
+01/08/2024,Pix - Enviado,01/08 13:18 Hugo Leonardo De Jesus,80101,-R$ 12,saída 
+01/08/2024,moradia,salário,,R$ 5.884,entrada
+02/08/2024,Pix - Enviado,02/08 23:04 Subway Contorno,80201,-R$ 23,saída 
+05/08/2024,Pagamento Fatura de Água,DESO CIA SANEAM SERGIPE,46819,-R$ 87,saída 
+09/08/2024,Pix - Enviado,09/08 15:49 Denilde Almeida Dos Santos,80901,-R$ 60,saída 
+09/08/2024,Pix - Enviado,09/08 23:02 43.221.942 Valdiran Batist,80902,-R$ 20,saída 
+12/08/2024,Transferência recebida,10/08 10:27 VICTOR CESAR SANTOS MELO,603545400015303,R$ 4.662,entrada
+12/08/2024,Pagto cartão crédito,,450354500090000,-R$ 5.747,saída 
+12/08/2024,Pagamento de Boleto,PJBANK PAGAMENTOS S A,81201,-R$ 344,saída 
+12/08/2024,Pix - Enviado,10/08 10:40 Geap,81202,-R$ 236,saída 
+12/08/2024,Pix - Enviado,10/08 10:43 Geap,81203,-R$ 296,saída 
+12/08/2024,Pix - Enviado,10/08 10:47 Energisa Sergipe - Distrib,81204,-R$ 273,saída 
+13/08/2024,Pix - Recebido,13/08 16:39 31129897591 VALDETE DE OLI,235779539809331,R$ 2.284,entrada
+14/08/2024,Pix - Recebido,14/08 17:23 00719764505 VICTOR CESAR S,236670201615721,R$ 100,entrada
+14/08/2024,Pagamento de Boleto,HIPERCARD BANCO MULTIPLO S.A,81401,-R$ 2.284,saída 
+15/08/2024,Pix - Enviado,15/08 22:19 Petrox Comercial Ltda,81501,-R$ 10,saída 
+27/08/2024,Pix - Enviado,27/08 09:24 56148741 Robson Santos Sil,82701,-R$ 70,saída 
+27/08/2024,Pix - Enviado,27/08 22:27 Petrox Comercial Ltda,82702,-R$ 35,saída 
+29/08/2024,Pix - Enviado,29/08 12:10 Debora Faustina Dos Santos,82901,-R$ 5,saída 
+01/09/2024,moradia,salário,,R$ 5.884,entrada
+02/09/2024,Pix - Enviado,31/08 18:34 Projeto Acalanto Sergipe,90201,-R$ 20,saída
+02/09/2024,Pix - Enviado,02/09 20:45 Elias Cabeleireiro,90202,-R$ 30,saída
+04/09/2024,Compra com Cartão,04/09 15:00 ALPHA PARK,154016,-R$ 4,saída
+05/09/2024,Pagamento Fatura de Água,DESO CIA SANEAM SERGIPE,46819,-R$ 87,saída
+09/09/2024,Transferência recebida,09/09 08:34 VICTOR CESAR SANTOS MELO,603545400015303,R$ 4.090,entrada
+09/09/2024,Pagamento de Boleto,PJBANK PAGAMENTOS S A,90901,-R$ 344,saída
+09/09/2024,Pix - Enviado,09/09 16:07 Joana Carolina Da Silva Mo,90902,-R$ 15,saída
+11/09/2024,Pix - Enviado,11/09 22:36 Raia Drogasil Sa,91101,-R$ 16,saída
+12/09/2024,Pagto cartão crédito,,450354500050000,-R$ 3.878,saída
+16/09/2024,Pix - Recebido,14/09 10:33 31129897591 VALDETE DE OLI,263207982107531,R$ 1.777,entrada
+16/09/2024,Pix - Recebido,16/09 10:35 00719764505 VICTOR CESAR S,264937180703591,R$ 2.000,entrada
+16/09/2024,Pagamento de Boleto,HIPERCARD BANCO MULTIPLO S.A,91601,-R$ 2.359,saída 
+16/09/2024,Pix - Enviado,16/09 12:39 Geap,91602,-R$ 241,saída 
+16/09/2024,Pix - Enviado,16/09 12:40 Geap,91603,-R$ 609,saída 
+17/09/2024,Compra com Cartão,17/09 09:01 ALPHA PARK,132482,-R$ 2,saída 
+18/09/2024,Pix - Enviado,18/09 10:47 Energisa Sergipe - Distrib,91801,-R$ 241,saída 
+18/09/2024,Pix - Enviado,18/09 10:48 Departamento Estadual De T,91802,-R$ 197,saída 
+18/09/2024,Pix - Enviado,18/09 11:11 Diocleciano Silva Santos,91803,-R$ 104,saída 
+30/09/2024,Pix - Enviado,30/09 15:34 Hugo Leonardo De Jesus,93001,-R$ 12,saída 
+01/10/2024,Pix - Enviado,01/10 17:39 Alisson Da Silva Araujo,100101,-R$ 45,saída
+01/10/2024,Pix - Enviado,01/10 17:39 Alisson Da Silva Araujo,100101,-R$ 45,saída
+01/10/2024,moradia,salário,,R$ 5.884,entrada
+03/10/2024,Pix - Enviado,03/10 08:15 Lucas Souza Gomes,100301,-R$ 10,saída
+03/10/2024,Pix - Enviado,03/10 08:15 Lucas Souza Gomes,100301,-R$ 10,saída
+07/10/2024,Pix - Enviado,05/10 13:10 Edigenal Elias Dos Santos,100701,-R$ 30,saída
+07/10/2024,Pagamento Fatura de Água,DESO CIA SANEAM SERGIPE,46819,-R$ 87,saída
+07/10/2024,Pix - Enviado,05/10 13:10 Edigenal Elias Dos Santos,100701,-R$ 30,saída
+07/10/2024,Pagamento Fatura de Água,DESO CIA SANEAM SERGIPE,46819,-R$ 87,saída
+10/10/2024,Transferência recebida,10/10 14:18 VICTOR CESAR SANTOS MELO,603545400015303,R$ 4.380,entrada
+10/10/2024,Pix - Recebido,10/10 16:36 00000719764505 VICTOR CESA,101636189826062,R$ 2.000,entrada
+10/10/2024,Pix - Recebido,10/10 20:17 00000719764505 VICTOR CESA,102017300472202,R$ 175,entrada
+10/10/2024,Pix - Recebido,10/10 20:33 00719764505 VICTOR CESAR S,286032197470931,R$ 10,entrada
+10/10/2024,Pagto cartão crédito,,450354500320000,-R$ 6.640,saída
+10/10/2024,Transferência recebida,10/10 14:18 VICTOR CESAR SANTOS MELO,603545400015303,R$ 4.380,entrada
+10/10/2024,Pix - Recebido,10/10 16:36 00000719764505 VICTOR CESA,101636189826062,R$ 2.000,entrada
+10/10/2024,Pix - Recebido,10/10 20:17 00000719764505 VICTOR CESA,102017300472202,R$ 175,entrada
+10/10/2024,Pix - Recebido,10/10 20:33 00719764505 VICTOR CESAR S,286032197470931,R$ 10,entrada
+10/10/2024,Pagto cartão crédito,,450354500320000,-R$ 6.640,saída
+16/10/2024,Pix - Recebido,16/10 15:52 00031129897591 VALDETE DE,161552264559082,R$ 270,entrada
+16/10/2024,Pix - Recebido,16/10 15:52 00031129897591 VALDETE DE,161552264559082,R$ 270,entrada
+21/10/2024,Pix - Enviado,19/10 11:41 Sorrimagem,102101,-R$ 30,saída
+21/10/2024,Pix - Enviado,19/10 11:41 Sorrimagem,102101,-R$ 30,saída
+22/10/2024,Compra com Cartão,22/10 15:09 Petrox,154566,-R$ 100,saída
+01/11/2024,moradia,salário,,R$ 5.884,entrada
+04/11/2024,Pagamento Fatura de Água,DESO CIA SANEAM SERGIPE,46819,-R$ 87,saída
+11/11/2024,Transferência recebida,11/11 18:37 VICTOR CESAR SANTOS MELO,603545400015303,R$ 4.380,entrada
+11/11/2024,Compra com Cartão,09/11 18:45 PANDAD,167549,-R$ 5,saída
+11/11/2024,Pagamento de Boleto,PJBANK PAGAMENTOS S A,111101,-R$ 344,saída
+12/11/2024,Pagto cartão crédito,,450354500160000,-R$ 3.542,saída
+12/11/2024,Pix - Enviado,12/11 19:11 Geap,111201,-R$ 241,saída
+12/11/2024,Pix - Enviado,12/11 19:13 Geap,111202,-R$ 302,saída
+14/11/2024,Pix - Recebido,14/11 17:10 00031129897591 VALDETE DE,141710354401142,R$ 2.182,entrada
+18/11/2024,Pagamento de Boleto,HIPERCARD BANCO MULTIPLO S.A,111801,-R$ 2.181,saída
+01/12/2024,moradia,salário,,R$ 5.884,entrada
+05/12/2024,Transferência recebida,05/12 20:29 VICTOR CESAR SANTOS MELO,603545400015303,R$ 6.307,entrada
+10/12/2024,Pagamento de Boleto,PJBANK PAGAMENTOS S A,121001,-R$ 344,saída
+16/12/2024,Pix - Recebido,14/12 02:41 00000719764505 VICTOR CESA,140241000569052,R$ 2.500,entrada
+16/12/2024,Pix - Recebido,14/12 14:19 00031129897591 VALDETE DE,141419182770582,R$ 2.410,entrada
+16/12/2024,Pagto cartão crédito,,450354500024293,-R$ 7.825,saída
+16/12/2024,Pix - Enviado,14/12 07:51 Geap,121601,-R$ 241,saída
+16/12/2024,Pagamento de Boleto,ENERGISA SERGIPE,121602,-R$ 248,saída
+16/12/2024,Pagamento de Boleto,HIPERCARD BANCO MULTIPLO S.A,121603,-R$ 2.420,saída
+17/12/2024,Pix - Recebido,17/12 08:39 00000719764505 VICTOR CESA,170839245403282,R$ 550,entrada
+17/12/2024,Pix - Enviado,17/12 08:41 Geap,121701,-R$ 600,saída
+23/12/2024,Pix - Recebido,23/12 12:06 00031129897591 VALDETE DE,231206230048122,R$ 282,entrada
+24/12/2024,Pix - Enviado,24/12 18:12 Alisson Da Silva Araujo,122401,-R$ 60,saída
+30/12/2024,Pix - Enviado,29/12 12:15 Delson De Oliveira Costa,123001,-R$ 17,saída
+31/12/2024,Dep dinheiro ATM,31/12 08:55 SOP-JARDINS-ARACAJU,833071477085555,R$ 1.000,entrada
+02/01/2025,Pix - Recebido,02/01 17:54 02367675503 Manuela de Sou,358512575810471,R$ 100,entrada
+02/01/2025,moradia,salário,,R$ 8.705,entrada
+06/01/2025,Pix - Recebido,04/01 13:11 10786918780 Maria Jose San,360070632314201,R$ 350,entrada
+06/01/2025,Pix - Recebido,06/01 16:32 06763230575 MICHEL ANTONIO,361919396643811,R$ 370,entrada
+06/01/2025,Pix - Enviado,06/01 14:36 Diana Santos De Melo,10601,-R$ 1.200,saída
+07/01/2025,Pagamento Fatura de Água,DESO CIA SANEAM SERGIPE,46819,-R$ 87,saída
+10/01/2025,Transferência recebida,10/01 18:51 VICTOR CESAR SANTOS MELO,603545000015303,R$ 6.174,entrada
+10/01/2025,Pix - Recebido,"10/01 18:59 00000719764505 VICTOR CESA"",""",,R$ 2.500,entrada
+10/01/2025,Pagto cartão crédito,10/01 18:59 00000719764505 VICTOR CESA,101859324913622,R$ 7.502,saída
+10/01/2025,Pix - Enviado,condomínio,,R$ 344,saída
+10/01/2025,Pix - Enviado,Geap,,R$ 236,saída
+10/01/2025,Pix - Enviado,Geap,,R$ 446,saída
+10/01/2025,Pix - Enviado,Energiza,,R$ 278,saída
+10/01/2025,Pagamento de Impostos,IPTU,,R$ 183,saída
+15/01/2025,Pagamento de Boleto,DEPARTAMENTO ESTADUAL DE TRANS,11501,-R$ 78,Saída
+23/01/2025,TED-Crédito em Conta,341 0910 00709873000178 ACEL ADMINISTR,367265549,R$ 300,Entrada
+23/01/2025,Compra com Cartão,23/01 13:21 CENTRO DE ATIVIDA,148075,-R$ 26,Saída
+23/01/2025,Compra com Cartão,23/01 20:36 GAME STATION,274187,-R$ 20,Saída
+23/01/2025,Compra com Cartão,23/01 21:07 GAME STATION,376066,-R$ 5,Saída
+27/01/2025,Compra com Cartão,25/01 14:42 FILEZAO CARNES,152942,-R$ 17,Saída
+27/01/2025,Compra com Cartão,25/01 14:49 MERCADINHO LIMA,253386,-R$ 41,Saída
+27/01/2025,Compra com Cartão,25/01 14:56 MP*BARRACADANETE,353783,-R$ 12,Saída
+27/01/2025,Compra com Cartão,25/01 20:13 LIVRARIA ESCARIZ,672807,-R$ 10,Saída
+27/01/2025,Compra com Cartão,25/01 22:30 RIOMAR ARACAJU PA,781007,-R$ 10,Saída
+29/01/2025,Compra com Cartão,29/01 17:55 PINGUIM,164524,-R$ 4,Saída
+30/01/2025,Compra com Cartão,30/01 13:20 ValdeteBatistaDe,148024,-R$ 14,Saída
+03/02/2025,Transferência recebida,03/02 16:09 VICTOR CESAR SANTOS MELO,603545400015303,R$ 4.424,Entrada
+03/02/2025,Pix - Enviado,01/02 22:45 Assai Atacadista,20301,-R$ 459,Saída
+06/02/2025,Pagamento Fatura de Água,DESO CIA SANEAM SERGIPE,46819,-R$ 97,Saída
+10/02/2025,Pix - Recebido,08/02 10:35 00000719764505 VICTOR CESA,81035016487332,R$ 2.600,Entrada
+10/02/2025,Pix - Recebido,10/02 18:19 00003539927557 DIANA SANTO,101819145631342,R$ 100,Entrada
+10/02/2025,Pagto cartão crédito,,450354500464293,-R$ 6.705,Saída
+10/02/2025,Pagamento de Boleto,PJBANK PAGAMENTOS S A,21001,-R$ 344,Saída
+11/02/2025,Pix - Recebido,11/02 12:14 00000719764505 VICTOR CESA,111214250922232,R$ 1.000,Entrada
+11/02/2025,Pix - Enviado,11/02 12:18 Geap,21101,-R$ 241,Saída
+11/02/2025,Pix - Enviado,11/02 12:22 Geap,21102,-R$ 389,Saída
+11/02/2025,Pix - Enviado,11/02 12:25 Energisa Sergipe - Distrib,21103,-R$ 242,Saída
+11/02/2025,Pix - Enviado,11/02 13:13 Shpp Brasil Instituicao De,21104,-R$ 10,Saída
+12/02/2025,Pix - Enviado,12/02 13:08 Jose Roberto Guimaraes Est,21201,-R$ 30,Saída
+14/02/2025,Dep dinheiro ATM,14/02 08:29 SOP-JARDINS-ARACAJU,833070067082904,R$ 3.004,Entrada
+14/02/2025,Dep dinheiro ATM,14/02 08:30 SOP-JARDINS-ARACAJU,833070067083006,R$ 130,Entrada
+14/02/2025,Pagamento de Boleto,HIPERCARD BANCO MULTIPLO S.A,21401,-R$ 2.644,Saída
+19/02/2025,Pagamento de Impostos,RFB-DOC.ARREC.E-SOCIAL,21901,-R$ 417,Saída
+24/02/2025,Pix - Recebido,24/02 15:12 00000719764505 VICTOR CESA,241512432839802,R$ 20,Entrada
+24/02/2025,Compra com Cartão,24/02 08:28 POSTO JARDIM EUROPA,130531,-R$ 150,Saída
+24/02/2025,Pix - Enviado,24/02 15:14 Shpp Brasil Instituicao De,22401,-R$ 34,Saída
+26/02/2025,Pix-Envio devolvido,26/02 09:39 SHPP BRASIL INSTITUICAO DE,260939016233982,R$ 10,Entrada
+28/02/2025,Compra com Cartão,28/02 12:07 HappyMarket,143638,-R$ 3,Saída
+28/02/2025,Pix - Enviado,28/02 10:06 Willames Dos Santos Vieira,22801,-R$ 5,Saída
+28/02/2025,Saldo Anterior,,,R$ 6,
+05/03/2025,Transferência recebida,05/03 20:06 VICTOR CESAR SANTOS MELO,603545400015303,R$ 4.417,Entrada
+05/03/2025,Compra com Cartão,04/03 23:26 HappyMarket,184373,-R$ 3,Saída
+05/03/2025,Pagto cartão crédito,,450354500034293,-R$ 2.790,Saída
+05/03/2025,Pagamento de Boleto,ESPACO BRINCAR E APRENDER LTDA,30501,-R$ 1.628,Saída
+10/03/2025,Pagamento Fatura de Água,DESO CIA SANEAM SERGIPE,46819,-R$ 117,Saída
+10/03/2025,Estorno de Débito,DESO CIA SANEAM SERGIPE,46819,R$ 117,Entrada
+11/03/2025,Pix - Recebido,11/03 21:29 00000719764505 VICTOR CESA,112129555187832,R$ 1.000,Entrada
+11/03/2025,Pix - Enviado,11/03 21:32 Pjbank Pagamentos S A,31101,-R$ 458,Saída
+11/03/2025,Pix - Enviado,11/03 21:40 Energisa Sergipe - Distrib,31102,-R$ 307,Saída
+19/03/2025,Pix - Recebido,19/03 13:54 03539927557 DIANA SILVA SA,424032773187931,R$ 500,Entrada
+19/03/2025,Pix - Enviado,19/03 13:56 Geap,31901,-R$ 241,Saída
+19/03/2025,Pix - Enviado,19/03 13:59 Geap,31902,-R$ 483,Saída
+20/03/2025,Compra com Cartão,20/03 13:55 ValdeteBatistaDe,150133,-R$ 14,Saída
+21/03/2025,Pix - Recebido,21/03 10:12 00003539927557 DIANA SANTO,211012290911582,R$ 300,Entrada
+21/03/2025,Pix - Enviado,21/03 22:01 Assai Atacadista,32101,-R$ 210,Saída
+24/03/2025,Pix - Enviado,22/03 11:15 Elias Cabeleireiro,32401,-R$ 30,Saída
